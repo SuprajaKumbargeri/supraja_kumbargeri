@@ -1,4 +1,1 @@
-Hello world!
-<img src="https://tenor.com/bk7lz.gif" width="24px">
-
-
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
