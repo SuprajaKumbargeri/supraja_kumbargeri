@@ -1,4 +1,4 @@
 Hello world!
 
-![Earth Spin GIF](https://media.tenor.com/5mNJ6av9YlQAAAAC/earth-spin-world.gif)
+![Earth Day Planet Sticker](https://tenor.com/bk7lz.gif)
 
